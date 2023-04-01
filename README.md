@@ -1,6 +1,10 @@
 # Predicting Drug Consumption from Psychological Assessment Data
 Authors: D. Dhameliya, L. Ng, W. Singh
-Date: September 20, 2022
+Fall 2022, San Francisco State Univerisity
+
+## Primary Motive
+
+We are are primarily interested in implementing a rigorous AI Ethics Auditing procedure which can be utilized in any AI based model deplyment. For doing this, We develop a potential use-case based model for a hypothetical enterprise. We then try to instill transparency in our model development and describe in detail the capability and implications of using such a model. We also analyse the models using feature based explainability methods.
 
 ## Project Description
 ### Description of Training Data
