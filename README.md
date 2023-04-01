@@ -1,4 +1,4 @@
-# Predicting Drug Consumption from Psychological Assessment Data
+# AI Ethics Audit on Predicting Drug Consumption from Psychological Assessment Data
 Authors: D. Dhameliya, L. Ng, W. Singh
 Fall 2022, San Francisco State Univerisity
 
